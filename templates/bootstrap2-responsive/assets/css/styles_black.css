@@ -1,0 +1,64 @@
+
+ul.top-small li a{
+    color:black;
+}
+
+.head-wrapper {
+    background: black;
+}
+
+.head-wrapper .navbar ul.nav > li > a:hover, .head-wrapper .navbar ul.nav > li.active > a {
+    background: #464745;
+}
+
+.simple-languages li.active a {
+    color: black !important;
+}
+
+ul.menu-onmap li.active, .wrap-search{
+    border-color:black;
+}
+
+.navbar .nav li.dropdown.open > .dropdown-toggle, .navbar .nav li.dropdown.active > .dropdown-toggle, .navbar .nav li.dropdown.open.active > .dropdown-toggle {
+    background: #464745;
+}
+
+ul.menu-onmap li
+{
+    background: black;
+}
+
+.wrap-bottom
+{
+    background: black;
+}
+
+.thumbnail h3
+{
+    background:black;
+}
+
+.btn-info
+{
+    background:black;
+    border-color:black;
+}
+
+.btn-info:hover
+{
+    background:#464745;
+}
+
+.label-info
+{
+    background-color:black;
+}
+
+.agent .mail a
+{
+    color:black;
+}
+
+
+
+

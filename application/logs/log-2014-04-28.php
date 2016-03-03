@@ -1,0 +1,22 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-04-28 14:31:41 --> Severity: Notice  --> Undefined index: page_documents C:\xampp\htdocs\property-point\application\controllers\showroom.php 66
+ERROR - 2014-04-28 14:31:41 --> Severity: Notice  --> Undefined index: page_files C:\xampp\htdocs\property-point\application\controllers\showroom.php 74
+ERROR - 2014-04-28 14:33:06 --> Severity: Notice  --> Undefined index: page_documents C:\xampp\htdocs\property-point\application\controllers\showroom.php 82
+ERROR - 2014-04-28 14:33:06 --> Severity: Notice  --> Undefined index: page_files C:\xampp\htdocs\property-point\application\controllers\showroom.php 90
+ERROR - 2014-04-28 16:17:14 --> Severity: Warning  --> mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;mail.t-com.hr&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\xampp\htdocs\property-point\system\libraries\Email.php 1553
+ERROR - 2014-04-28 16:17:14 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\property-point\system\core\Exceptions.php:185) C:\xampp\htdocs\property-point\system\libraries\Session.php 675
+ERROR - 2014-04-28 16:17:14 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\property-point\system\core\Exceptions.php:185) C:\xampp\htdocs\property-point\system\helpers\url_helper.php 542
+ERROR - 2014-04-28 16:17:32 --> 404 Page Not Found --> http://localhost/property-point/index.php/showroom/4/e
+ERROR - 2014-04-28 16:22:08 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\property-point\application\controllers\showroom.php:264) C:\xampp\htdocs\property-point\system\libraries\Session.php 675
+ERROR - 2014-04-28 16:22:08 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\property-point\application\controllers\showroom.php:264) C:\xampp\htdocs\property-point\system\helpers\url_helper.php 542
+ERROR - 2014-04-28 16:27:18 --> Severity: Warning  --> mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;mail.t-com.hr&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\xampp\htdocs\property-point\system\libraries\Email.php 1553
+ERROR - 2014-04-28 16:27:18 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\property-point\system\core\Exceptions.php:185) C:\xampp\htdocs\property-point\system\libraries\Session.php 675
+ERROR - 2014-04-28 16:27:18 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\property-point\system\core\Exceptions.php:185) C:\xampp\htdocs\property-point\system\helpers\url_helper.php 542
+ERROR - 2014-04-28 16:29:50 --> Severity: Warning  --> mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;mail.t-com.hr&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\xampp\htdocs\property-point\system\libraries\Email.php 1553
+ERROR - 2014-04-28 16:29:50 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\property-point\system\core\Exceptions.php:185) C:\xampp\htdocs\property-point\system\libraries\Session.php 675
+ERROR - 2014-04-28 16:29:50 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\property-point\system\core\Exceptions.php:185) C:\xampp\htdocs\property-point\system\helpers\url_helper.php 542
+ERROR - 2014-04-28 20:43:00 --> Severity: Notice  --> Undefined index: news_module_all C:\xampp\htdocs\property-point\application\controllers\showroom.php 547
+ERROR - 2014-04-28 20:43:04 --> Severity: Notice  --> Undefined index: news_module_all C:\xampp\htdocs\property-point\application\controllers\showroom.php 547
+ERROR - 2014-04-28 20:43:16 --> Severity: Notice  --> Undefined index: news_module_all C:\xampp\htdocs\property-point\application\controllers\showroom.php 547
+ERROR - 2014-04-28 20:53:31 --> Severity: Notice  --> Undefined index: news_module_all C:\xampp\htdocs\property-point\application\controllers\showroom.php 547

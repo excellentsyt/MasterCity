@@ -1,0 +1,112 @@
+
+
+ul.top-small li a{
+    color:#5F3B67;
+}
+
+.head-wrapper {
+    background: #5F3B67;
+}
+
+.head-wrapper .navbar ul.nav > li > a:hover, .head-wrapper .navbar ul.nav > li.active > a {
+    background: #876A88;
+}
+
+.simple-languages li.active a {
+    color: #5F3B67 !important;
+}
+
+ul.menu-onmap li.active, .wrap-search{
+    border-color:#5F3B67;
+}
+
+.navbar .nav li.dropdown.open > .dropdown-toggle, .navbar .nav li.dropdown.active > .dropdown-toggle, .navbar .nav li.dropdown.open.active > .dropdown-toggle {
+    background: #876A88;
+}
+
+ul.menu-onmap li
+{
+    background: #5F3B67;
+}
+
+.wrap-bottom
+{
+    background: #5F3B67;
+}
+
+.thumbnail h3
+{
+    background:#5F3B67;
+}
+
+.btn-info
+{
+    background:#5F3B67;
+    border-color:#5F3B67;
+}
+
+.btn-info:hover
+{
+    background:#876A88;
+}
+
+.label-info
+{
+    background-color:#5F3B67;
+}
+
+.agent .mail a
+{
+    color:#5F3B67;
+}
+
+/* [START] Custom logo over map, codecanyon example */
+
+.head-wrapper .logo
+{
+    display: none;
+}
+
+.head-wrapper .navbar.pull-left
+{
+    padding-left:90px;
+}
+
+.head-wrapper .logo-over
+{
+    display: inline;
+}
+
+.head-wrapper a.logo-over img {
+      position: absolute;
+      z-index: 2000;
+}
+
+
+.navbar .nav > li > a, .navbar .nav > li:first-child > a {
+    padding: 10px 25px 8px;
+}
+
+div.simple-languages {
+    padding-bottom: 5px;
+    padding-top: 4px;
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 978px) {
+    
+.head-wrapper .navbar.pull-left
+{
+    padding-left:0px;
+}
+
+.head-wrapper a.logo-over img {
+      position: relative;
+      padding:5px;
+}
+
+}
+
+
+/* [END] Custom logo over map, codecanyon example */
+

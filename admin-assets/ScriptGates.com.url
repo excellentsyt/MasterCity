@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://scriptgates.com/
+[InternetShortcut]
+URL=http://scriptgates.com/
+IconIndex=13
+IconFile=C:\Windows\system32\SHELL32.dll
+Modified=404574A7BEA8CD01D4
+HotKey=0
+IDList=
