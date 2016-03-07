@@ -1,0 +1,4 @@
+Options +FollowSymlinks
+RewriteEngine on
+rewritecond %{http_host} ^mastercitygroup.com [nc]
+rewriterule ^(.*)$ http://www.mastercitygroup.com/$1 [r=301,nc]
