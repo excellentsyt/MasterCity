@@ -50,10 +50,10 @@ $active_group = 'mysql';
 $active_record = TRUE;
 
 //MySQL example
-$db['mysql']['hostname'] = 'sql303.0fees.us';
-$db['mysql']['username'] = '0fe_17204747';
-$db['mysql']['password'] = 'test123!';
-$db['mysql']['database'] = '0fe_17204747_realestate';
+$db['mysql']['hostname'] = 'localhost';
+$db['mysql']['username'] = 'mastercitydb';
+$db['mysql']['password'] = 'gr33nl@nd';
+$db['mysql']['database'] = 'mastercity';
 $db['mysql']['dbdriver'] = 'mysql';
 $db['mysql']['dbprefix'] = '';
 $db['mysql']['pconnect'] = FALSE;
