@@ -4,3 +4,5 @@ db-example-1.sql
 update*.sql
 
 .idea
+
+application/logs/*
