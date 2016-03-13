@@ -13,7 +13,7 @@ class Language_m extends MY_Model {
         'is_rtl' => array('field'=>'default', 'label'=>'lang:Default', 'rules'=>'trim'),
     );
 
-    public $backend_languages = array('hr'=>'Croatian', 'en'=>'English');
+    public $backend_languages = array('cn'=>'Chinese','hr'=>'Croatian', 'en'=>'English');
     
 	public function __construct(){
 		parent::__construct();

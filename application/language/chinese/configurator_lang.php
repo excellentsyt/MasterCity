@@ -1,11 +1,12 @@
-<?php 
+<?php
 
-$lang['configurator'] = "System configuration";
-$lang['start_configuration'] = "Security and main settings configuration";
-$lang['l_site_name'] = "Company name";
-$lang['l_language'] = "Language";
-$lang['chinese'] = "中文";
+/* Configurator */
+$lang['configurator'] = "系统配置";
+$lang['start_configuration'] = "安全和主要环境配置";
+$lang['l_site_name'] = "公司名称";
+$lang['l_language'] = "语言";
 $lang['croatian'] = "Croatian";
+$lang['chinese'] = "中文";
 $lang['english'] = "English";
 $lang['client_username'] = "Client username";
 $lang['client_password'] = "Client password";
@@ -29,22 +30,30 @@ $lang['admin_login_path'] = "Admin login path";
 $lang['admin_login_form_path'] = "Admin login form path";
 $lang['homepage'] = "Homapage";
 $lang['alredy_installed'] = "System is alredy configured";
-$lang['configurator_info'] = "If you want to configure it again, in file cms_config.php change:<br />\$config['installed'] = true;<br />to<br />\$config['installed'] = false;<br />";
+$lang['configurator_info'] = "If you want to configure it again, in file cms_config.php change:<br />".
+                             '$config[\'installed\'] = true;<br />'.
+                             'to<br />'.
+                             '$config[\'installed\'] = false;<br />';
 $lang['next'] = "Next";
 $lang['previous'] = "Previous";
 $lang['slideshow'] = "Slideshow";
 $lang['download'] = "Download";
 $lang[''] = "";
-
 $lang['admin_creditionals'] = "Admin creditionals: admin, admin";
 $lang['client_creditionals'] = "Client creditionals: user, user";
 $lang['configuration_not_saved'] = "Configuration doesn't saved";
 $lang['sqlite_warning'] = "SQLite is disabled on your server!";
+$lang[''] = "";
 $lang['mysql_db_name'] = "MySQL database name";
 $lang['db_username'] = "Database username";
 $lang['db_password'] = "Database password";
 $lang['mysql_db_host'] = "Database hostname";
 $lang['mysql_db_driver'] = "Database driver";
 $lang['mysql_db_port'] = "Database port";
+$lang[''] = "";
+$lang[''] = "";
+$lang[''] = "";
+$lang[''] = "";
 
-?>
+
+

@@ -5,6 +5,7 @@ $lang['configurator'] = "System configuration";
 $lang['start_configuration'] = "Security and main settings configuration";
 $lang['l_site_name'] = "Company name";
 $lang['l_language'] = "Language";
+$lang['chinese'] = "中文";
 $lang['croatian'] = "Croatian";
 $lang['english'] = "English";
 $lang['client_username'] = "Client username";

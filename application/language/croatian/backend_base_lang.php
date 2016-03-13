@@ -23,6 +23,7 @@ $lang['After delete, template changes needed'] = "Poslje brisanja, predložak je
 $lang['Copy to other languages'] = "Kopiraj na druge jezike";
 $lang['Language locked, can\'t be deleted but you can change it!'] = "Izabrani jezik je zaključan, ne može biti obrisan ali može biti izmjenjen!";
 $lang['Back to homepage'] = "Povratak na početnu stranicu";
+$lang['chinese'] = "中文";
 $lang['croatian'] = "Hrvatski";
 $lang['english'] = "Engleski";
 $lang['slovenian'] = "Slovenski";

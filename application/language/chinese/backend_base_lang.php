@@ -1,8 +1,8 @@
 <?php
 
 /* Base translations */
-$lang['lang_shortcode_2ch'] = "en";
-$lang['app_name'] = 'Real Estate Point';
+$lang['lang_shortcode_2ch'] = "cn";
+$lang['app_name'] = 'Master City 集团';
 
 /* Base */
 $lang['View All'] = "View all";
@@ -28,8 +28,8 @@ $lang['Language locked, can\'t be deleted but you can change it!'] = "Selected l
 $lang['Back to homepage'] = "Back to homepage";
 
 /* languages */
-$lang['chinese'] = "中文";
 $lang['croatian'] = "Croatian";
+$lang['chinese'] = "中文";
 $lang['english'] = "English";
 $lang['slovenian'] = "Slovenian";
 $lang['german'] = "German";

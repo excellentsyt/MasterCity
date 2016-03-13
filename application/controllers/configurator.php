@@ -259,6 +259,7 @@ class Configurator extends MY_Controller
         $this->data['config_data'][''] = config_item('');
         
         $this->data['l_lang_options'] = array(
+                  'chinese'    => lang('chinese'),
                   'croatian'    => lang('croatian'),
                   'english'     => lang('english'),
                 );
