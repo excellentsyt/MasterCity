@@ -8,7 +8,7 @@
         $("#wrap-map").gmap3({
          map:{
             options:{
-             center: [{all_estates_center}],
+                center: [<?php echo '-33.8415392,151.0748597'?>],/*center: [{all_estates_center}],*/
              zoom: {settings_zoom},
              scrollwheel: false,
              mapTypeId: c_mapTypeId,
@@ -190,11 +190,11 @@
 </div>
 <?php endif;?>
 
-<div class="wrap-content2">
-    <div class="container">
-        {page_body}
-    </div>
-</div>
+<!--<div class="wrap-content2">-->
+<!--    <div class="container">-->
+<!--        {page_body}-->
+<!--    </div>-->
+<!--</div>-->
 {template_footer}
     
   </body>
