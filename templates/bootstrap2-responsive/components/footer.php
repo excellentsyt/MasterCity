@@ -32,16 +32,10 @@
                     <td>12345678</td>
                 </tr>
             </table>
-<!--        </div>-->
-<!--        <div class="span3">-->
-<!--            <a class="developed_by" href="http://iwinter.com.hr" target="_blank"><img src="assets/img/partners/winter.png" alt="winter logo" /></a>-->
-<!---->
-<!--            <div class="share">-->
-<!--                {settings_facebook}-->
-<!--            </div>-->
-<!--        </div>-->
+        </div>
+
       </div>
     </div>
-    <!-- Generate time: <?php echo (microtime(true) - $time_start)?>, version: <?php echo APP_VERSION_REAL_ESTATE; ?> -->
+<!--     Generate time: --><?php //echo (microtime(true) - $time_start)?><!--, version: --><?php //echo APP_VERSION_REAL_ESTATE; ?><!-- -->
 </div>
 <!--    {settings_tracking}-->

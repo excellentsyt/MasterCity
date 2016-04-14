@@ -117,11 +117,11 @@
         <div class="property_content">
         {page_body}
         
-        {has_settings_gps}
-        <h2>{lang_Locationonmap}</h2>
-        <div id="contactMap">
-        </div>
-        {/has_settings_gps}
+<!--        {has_settings_gps}-->
+<!--        <h2>{lang_Locationonmap}</h2>-->
+<!--        <div id="contactMap">-->
+<!--        </div>-->
+<!--        {/has_settings_gps}-->
         
         {has_settings_email}
         <h2 id="form">{lang_Contactform}</h2>
