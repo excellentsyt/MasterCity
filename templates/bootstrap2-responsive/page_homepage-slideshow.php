@@ -98,9 +98,9 @@
     </div>
 </div>
 <div class="wrap-content2">
-    <div class="container">
-        {page_body}
-    </div>
+<!--    <div class="container">-->
+<!--        {page_body}-->
+<!--    </div>-->
 </div>
 {template_footer}
   </body>
