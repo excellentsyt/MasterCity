@@ -22,24 +22,24 @@
                 <input id="search_option_19" type="text" class="span3 Bathrooms" placeholder="{options_name_19}" />
                 <input id="search_option_20" type="text" class="span3" placeholder="{options_name_20}" />
                 <div class="form-row-space"></div>
-                <label class="checkbox">
-                <input id="search_option_11" type="checkbox" class="span1" value="true{options_name_11}" />{options_name_11}
-                </label>
+<!--                <label class="checkbox">-->
+<!--                <input id="search_option_11" type="checkbox" class="span1" value="true{options_name_11}" />{options_name_11}-->
+<!--                </label>-->
                 <label class="checkbox">
                 <input id="search_option_22" type="checkbox" class="span1" value="true{options_name_22}" />{options_name_22}
                 </label>
-                <label class="checkbox">
-                <input id="search_option_25" type="checkbox" class="span1" value="true{options_name_25}" />{options_name_25}
-                </label>
-                <label class="checkbox">
-                <input id="search_option_27" type="checkbox" class="span1" value="true{options_name_27}" />{options_name_27}
-                </label>
-                <label class="checkbox">
-                <input id="search_option_28" type="checkbox" class="span1" value="true{options_name_28}" />{options_name_28}
-                </label>
-                <label class="checkbox">
-                <input id="search_option_29" type="checkbox" class="span1" value="true{options_name_29}" />{options_name_29}
-                </label>
+<!--                <label class="checkbox">-->
+<!--                <input id="search_option_25" type="checkbox" class="span1" value="true{options_name_25}" />{options_name_25}-->
+<!--                </label>-->
+<!--                <label class="checkbox">-->
+<!--                <input id="search_option_27" type="checkbox" class="span1" value="true{options_name_27}" />{options_name_27}-->
+<!--                </label>-->
+<!--                <label class="checkbox">-->
+<!--                <input id="search_option_28" type="checkbox" class="span1" value="true{options_name_28}" />{options_name_28}-->
+<!--                </label>-->
+<!--                <label class="checkbox">-->
+<!--                <input id="search_option_29" type="checkbox" class="span1" value="true{options_name_29}" />{options_name_29}-->
+<!--                </label>-->
                 <label class="checkbox">
                 <input id="search_option_32" type="checkbox" class="span1" value="true{options_name_32}" />{options_name_32}
                 </label>
